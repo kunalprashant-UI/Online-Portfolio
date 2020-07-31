@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://pratyushsawan.tech/sitemap.xml
+Host: https://pratyushsawan.tech
