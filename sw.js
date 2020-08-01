@@ -42,11 +42,11 @@ self.__precacheManifest = [
   },
   {
     "url": "404.html",
-    "revision": "4e31fb99c9ebdfa86082cdf71914d3c2"
+    "revision": "c038fdcbe50ad2d2c7b63b6a36a229c6"
   },
   {
     "url": "404/index.html",
-    "revision": "edb6808b123a666ecefe6e3bb75f30b4"
+    "revision": "f31e71c3cb90c9f3920e24b84441b5a1"
   },
   {
     "url": "95b64a6e-583f7a8194765f502252.js"
@@ -64,7 +64,7 @@ self.__precacheManifest = [
   },
   {
     "url": "chunk-map.json",
-    "revision": "35bfc753afa21e90ccd4e66f589a633f"
+    "revision": "3aa465d1a93d219d80b1b5c0c8ae623e"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-1af2b3b136460c4ee92c.js"
@@ -81,11 +81,11 @@ self.__precacheManifest = [
     "revision": "a10f407e7e8af8106b31ae70044f7bae"
   },
   {
-    "url": "component---src-pages-index-js-759a799df059b502dd41.js"
+    "url": "component---src-pages-index-js-44d46066084d785b6a36.js"
   },
   {
-    "url": "component---src-pages-index-js-759a799df059b502dd41.js.map",
-    "revision": "56df2be384b000045cfa345db58324d6"
+    "url": "component---src-pages-index-js-44d46066084d785b6a36.js.map",
+    "revision": "85fd3672bd84e1437d5d6510923dd730"
   },
   {
     "url": "d7eeaac4-9df777bc4a17974a1e2e.js"
@@ -142,7 +142,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "d2810872f474aaf0ece9e470f4e1be68"
+    "revision": "9a98a0cc3d798d814554b0fb96b497db"
   },
   {
     "url": "manifest.webmanifest",
@@ -150,7 +150,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "249164c04bb7156a2b428692ae4881f7"
+    "revision": "b348019cf53fec3fe03cecd0039bfdf4"
   },
   {
     "url": "page-data/404.html/page-data.json",
@@ -162,7 +162,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "bddb68952fa48d40a7b3c260af7cd8e9"
+    "revision": "2602676f1147775fc8c28f4c07c2912e"
+  },
+  {
+    "url": "page-data/dev-404-page/page-data.json",
+    "revision": "ab935f94fe76bebdaa856ee7a3b135f1"
   },
   {
     "url": "page-data/index/page-data.json",
@@ -258,6 +262,36 @@ self.__precacheManifest = [
   },
   {
     "url": "static/1267163138072343230eeacccbe14fa6/f422e/64890050_111085460021948_5412002401289017378_n.jpg"
+  },
+  {
+    "url": "static/1a119e727468be6f79f0223bc63a0b7b/0756a/pratyushPhoto2.png"
+  },
+  {
+    "url": "static/1a119e727468be6f79f0223bc63a0b7b/34b62/pratyushPhoto2.webp"
+  },
+  {
+    "url": "static/1a119e727468be6f79f0223bc63a0b7b/42c55/pratyushPhoto2.png"
+  },
+  {
+    "url": "static/1a119e727468be6f79f0223bc63a0b7b/61fd6/pratyushPhoto2.png"
+  },
+  {
+    "url": "static/1a119e727468be6f79f0223bc63a0b7b/62915/pratyushPhoto2.png"
+  },
+  {
+    "url": "static/1a119e727468be6f79f0223bc63a0b7b/7f8e9/pratyushPhoto2.webp"
+  },
+  {
+    "url": "static/1a119e727468be6f79f0223bc63a0b7b/a3e81/pratyushPhoto2.webp"
+  },
+  {
+    "url": "static/1a119e727468be6f79f0223bc63a0b7b/bc59e/pratyushPhoto2.png"
+  },
+  {
+    "url": "static/1a119e727468be6f79f0223bc63a0b7b/cde37/pratyushPhoto2.webp"
+  },
+  {
+    "url": "static/1a119e727468be6f79f0223bc63a0b7b/fccb4/pratyushPhoto2.webp"
   },
   {
     "url": "static/2aa59663e58354bec49e51d2c6bd10d6/2a4de/preview.png"
@@ -434,6 +468,9 @@ self.__precacheManifest = [
     "url": "static/394d4a6d64b33c86aa71e6ec7896c283/ff4be/nodejs.png"
   },
   {
+    "url": "static/46fba3a40b76fb4d4015756461cd1207/share.png"
+  },
+  {
     "url": "static/4b44af359362fcf3f410f92f473fd840/10d63/73401813_753153461834224_5367806878822576310_n.jpg"
   },
   {
@@ -536,36 +573,6 @@ self.__precacheManifest = [
     "url": "static/557611a13ab6dfc07b7c78e198db3f42/cde37/selfie-boy.webp"
   },
   {
-    "url": "static/5a07169b8fec440fc77afcd1a169aa1f/0756a/pratyushphoto.png"
-  },
-  {
-    "url": "static/5a07169b8fec440fc77afcd1a169aa1f/34b62/pratyushphoto.webp"
-  },
-  {
-    "url": "static/5a07169b8fec440fc77afcd1a169aa1f/61fd6/pratyushphoto.png"
-  },
-  {
-    "url": "static/5a07169b8fec440fc77afcd1a169aa1f/62915/pratyushphoto.png"
-  },
-  {
-    "url": "static/5a07169b8fec440fc77afcd1a169aa1f/7776a/pratyushphoto.png"
-  },
-  {
-    "url": "static/5a07169b8fec440fc77afcd1a169aa1f/7f8e9/pratyushphoto.webp"
-  },
-  {
-    "url": "static/5a07169b8fec440fc77afcd1a169aa1f/a3e81/pratyushphoto.webp"
-  },
-  {
-    "url": "static/5a07169b8fec440fc77afcd1a169aa1f/b3cb3/pratyushphoto.webp"
-  },
-  {
-    "url": "static/5a07169b8fec440fc77afcd1a169aa1f/bc59e/pratyushphoto.png"
-  },
-  {
-    "url": "static/5a07169b8fec440fc77afcd1a169aa1f/cde37/pratyushphoto.webp"
-  },
-  {
     "url": "static/5d99a5d8a699975c6cf365d48022605d/4e333/50824163_382522659216214_6331536078716303863_n.jpg"
   },
   {
@@ -636,9 +643,6 @@ self.__precacheManifest = [
   },
   {
     "url": "static/61ec7683884d7433bf51795832c8ecbb/f422e/65764596_115012736450702_3690422556348346422_n.jpg"
-  },
-  {
-    "url": "static/62e4b00bcb211c7de86ae7ace9bcae62/share.png"
   },
   {
     "url": "static/6930451eeae675efb0d796b40cf6e708/1f5c5/reactive-resume.webp"
@@ -869,13 +873,13 @@ self.__precacheManifest = [
     "url": "static/d/1709894009.json"
   },
   {
-    "url": "static/d/2014184847.json"
-  },
-  {
     "url": "static/d/2255141545.json"
   },
   {
     "url": "static/d/2289247758.json"
+  },
+  {
+    "url": "static/d/2395386505.json"
   },
   {
     "url": "static/d/2396307195.json"
@@ -1158,15 +1162,15 @@ self.__precacheManifest = [
     "url": "styles.820ba0eb8f166e9e9d9b.css"
   },
   {
-    "url": "webpack-runtime-02777dcd9c6e8095ff4a.js"
+    "url": "webpack-runtime-01aaab53fbe50f97e13c.js"
   },
   {
-    "url": "webpack-runtime-02777dcd9c6e8095ff4a.js.map",
-    "revision": "fb16846f43ac85b3901a5a4f6e5062ff"
+    "url": "webpack-runtime-01aaab53fbe50f97e13c.js.map",
+    "revision": "a087c19c2c13ea55044a0ceba51bc4c0"
   },
   {
     "url": "webpack.stats.json",
-    "revision": "27a2828de8361145fdce3007be9d342e"
+    "revision": "c28500e8757133d83261ffd470d0ce6b"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
